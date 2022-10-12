@@ -4,6 +4,6 @@ This project, designed with PHP, fills in your information in the empty fields a
 
 To reach me;
 
-instagram : keremkaplanxq
+instagram : _keremkaplan
 
 Telegram : keremkaplanxq
